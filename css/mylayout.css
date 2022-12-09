@@ -1,0 +1,9 @@
+.mainbox{
+    border-top: 2px #BBBBBB;
+    border-bottom: #BBBBBB 2px;
+    border-left: #BBBBBB 40px;
+    border-right: #BBBBBB 40px;
+    padding-left: 20px;
+    padding-right: 20px;
+    background-color: #BBBBBB;
+}
